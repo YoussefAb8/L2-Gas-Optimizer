@@ -5,7 +5,7 @@ Project Status: Testnet
 
 This model is currently deployed and tested on the OpenGradient Testnet.
 
-How it Works
+# How it Works
 
 The model evaluates network conditions based on 2 core features to determine its status:
 
